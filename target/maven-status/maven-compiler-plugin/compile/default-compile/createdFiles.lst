@@ -1,0 +1,5 @@
+base\BaseTest.class
+test\java\Test99GuruLogin.class
+pageFactory\Guru99HomePage.class
+test\java\Test99GuruLoginWithPageFactory.class
+pageFactory\Guru99Login.class

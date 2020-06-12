@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Surefire test" failures="0" tests="2" time="16.053" errors="0">
+  <properties/>
+  <testcase name="test_Home_Page_Appear_Correct" time="4.415" classname="test.java.Test99GuruLogin"/>
+  <testcase name="test_Home_Page_Appear_Correct" time="4.583" classname="test.java.Test99GuruLoginWithPageFactory"/>
+</testsuite>

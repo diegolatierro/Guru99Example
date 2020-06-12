@@ -1,0 +1,22 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite">
+    <groups>
+    </groups>
+    <test name="Surefire test">
+      <class name="test.java.Test99GuruLogin">
+        <test-method status="PASS" signature="setup()" name="setup" is-config="true" duration-ms="4541" started-at="2020-05-26T10:49:24Z" finished-at="2020-05-26T10:49:29Z">
+        </test-method>
+        <test-method status="PASS" signature="test_Home_Page_Appear_Correct()" name="test_Home_Page_Appear_Correct" duration-ms="4415" started-at="2020-05-26T10:49:29Z" finished-at="2020-05-26T10:49:33Z">
+        </test-method>
+      </class>
+      <class name="test.java.Test99GuruLoginWithPageFactory">
+        <test-method status="PASS" signature="setup()" name="setup" is-config="true" duration-ms="2503" started-at="2020-05-26T10:49:33Z" finished-at="2020-05-26T10:49:36Z">
+        </test-method>
+        <test-method status="PASS" signature="test_Home_Page_Appear_Correct()" name="test_Home_Page_Appear_Correct" duration-ms="4583" started-at="2020-05-26T10:49:36Z" finished-at="2020-05-26T10:49:40Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
