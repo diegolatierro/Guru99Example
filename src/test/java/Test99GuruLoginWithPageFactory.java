@@ -42,7 +42,7 @@ public class Test99GuruLoginWithPageFactory extends BaseTest{
 
     //login to application
 
-    objLogin.loginToGuru99("mgr123", "mgr!23");
+    objLogin.loginToGuru99("mgr123", "mgr!234");
 
     // go the next page
 
