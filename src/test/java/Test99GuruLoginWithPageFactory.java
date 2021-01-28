@@ -28,7 +28,7 @@ public class Test99GuruLoginWithPageFactory extends BaseTest{
     public void test_Home_Page_Appear_Correct(){
     // open url
     	
-    driver.get("http://demo.guru99.com/V4/");
+    driver.get("https://www.google.com/");
 
     //Create Login Page object
 

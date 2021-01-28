@@ -27,14 +27,14 @@ public class Test99GuruLogin extends BaseTest{
 
     @Test
     public void test_Home_Page_Appear_Correct(){
-    // open url
-    	
-    driver.get("http://demo.guru99.com/V4/");
-
     //Create Login Page object
 
     objLogin = new Guru99Login(driver);
 
+    // open url
+	
+    driver.get("http://demo.guru99.com/V4/");
+    
     //Verify login page title
 
     String loginPageTitle = objLogin.getLoginTitle();

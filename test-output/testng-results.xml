@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="9604" started-at="2020-06-12T11:13:54 UYT" finished-at="2020-06-12T11:14:04 UYT">
+  <suite name="Default suite" duration-ms="10965" started-at="2021-01-28T18:54:50 UYT" finished-at="2021-01-28T18:55:01 UYT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="9604" started-at="2020-06-12T11:13:54 UYT" finished-at="2020-06-12T11:14:04 UYT">
+    <test name="Default test" duration-ms="10965" started-at="2021-01-28T18:54:50 UYT" finished-at="2021-01-28T18:55:01 UYT">
       <class name="test.java.Test99GuruLoginWithPageFactory">
-        <test-method status="PASS" signature="setup()[pri:0, instance:test.java.Test99GuruLoginWithPageFactory@3439f68d]" name="setup" is-config="true" duration-ms="4484" started-at="2020-06-12T11:13:54 UYT" finished-at="2020-06-12T11:13:59 UYT">
+        <test-method status="PASS" signature="setup()[pri:0, instance:test.java.Test99GuruLoginWithPageFactory@2bea5ab4]" name="setup" is-config="true" duration-ms="3788" started-at="2021-01-28T18:54:50 UYT" finished-at="2021-01-28T18:54:53 UYT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="test_Home_Page_Appear_Correct()[pri:0, instance:test.java.Test99GuruLoginWithPageFactory@3439f68d]" name="test_Home_Page_Appear_Correct" duration-ms="4317" started-at="2020-06-12T11:13:59 UYT" finished-at="2020-06-12T11:14:03 UYT">
+        <test-method status="PASS" signature="test_Home_Page_Appear_Correct()[pri:0, instance:test.java.Test99GuruLoginWithPageFactory@2bea5ab4]" name="test_Home_Page_Appear_Correct" duration-ms="7121" started-at="2021-01-28T18:54:53 UYT" finished-at="2021-01-28T18:55:01 UYT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_Home_Page_Appear_Correct -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:test.java.Test99GuruLoginWithPageFactory@3439f68d]" name="teardown" is-config="true" duration-ms="737" started-at="2020-06-12T11:14:03 UYT" finished-at="2020-06-12T11:14:04 UYT">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:test.java.Test99GuruLoginWithPageFactory@2bea5ab4]" name="teardown" is-config="true" duration-ms="0" started-at="2021-01-28T18:55:01 UYT" finished-at="2021-01-28T18:55:01 UYT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
