@@ -31,10 +31,10 @@ public class BaseTest {
 	    	
 	    	driver = new ChromeDriver();
 	    	
-	        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+	        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 	    }
 	    @AfterMethod
 	    protected void teardown() {
-	        driver.quit();
+	        //driver.quit();
 	    }
 }
